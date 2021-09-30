@@ -8,7 +8,6 @@ I'm Berat ÖZGEN a Software Developer and Part-time Content Creator on [Youtube]
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Upwork
-- 🤔 I’m looking for help with Outstanding Video ideas.
+- 🔭 I’m currently working at Freelance.
 - 📫 How to reach me: beratozgendev@gmail.com.
-- ⚡ Fun fact: I play games.
+- ⚡ Hobbies: Listen to music.
