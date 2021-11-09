@@ -1,3 +1,8 @@
+ 
+ https://assets3.lottiefiles.com/private_files/lf30_y4x6f4rs.json
+ 
+ <p>--------------------------------------------------------------------</p>
+ 
  Hi there, I'm Berat aka bozmaschine <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Berat ÖZGEN a Software Developer and Part-time Content Creator on [Youtube](https://www.youtube.com/channel/UCm5l8-8axI8LNMPlovzaEOQ). I share coding videos and tips.
