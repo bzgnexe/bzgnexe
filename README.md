@@ -1,5 +1,54 @@
+<p align=center>
+<img src="">
+</p>
+
 <div>
+<h1 align="center"> Hi There, I'm Berat</h1>
 
-<h1 align="center">Hi, I'm Berat</h1></div>
+### I'm Software Developer and Content Creator on <img src="https://img.icons8.com/color/15/000000/youtube-play.png"/> <a href="https://www.youtube.com/channel/UCm5l8-8axI8LNMPlovzaEOQ"> YouTube</a> and <img src="https://img.icons8.com/color/15/000000/instagram-new--v1.png"/> <a href="https://www.instagram.com/bozmaschine/"> Instagram</a>
 
+</div>
 <br>
+
+<h4>Languages and Techs: </h2>
+
+
+<img src="https://img.icons8.com/fluency/48/000000/flutter.png"/>  	
+<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>  	
+<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
+
+<p>Tools: </p>
+
+<img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
+
+<style>
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #7FFF00;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00FFFF ;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
