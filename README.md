@@ -1,6 +1,3 @@
-<p align=center>
-<img src="">
-</p>
 
 <div>
 <h1 align="center"> Hi There, I'm Berat</h1>
@@ -12,7 +9,7 @@
 
 <h4>Languages and Techs: </h2>
 
-
+<p>
 <img src="https://img.icons8.com/fluency/48/000000/flutter.png"/>  	
 <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>  	
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
@@ -21,34 +18,10 @@
 <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
+</p>
 
-<p>Tools: </p>
-
+<h4>Tools: </h4>
+<p>
 <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
-
-<style>
-a:link {
-  color: white;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:visited {
-  color: #7FFF00;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #00FFFF ;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
-}
-</style>
+</p>
