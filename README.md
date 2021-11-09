@@ -3,8 +3,9 @@
 I'm Berat ÖZGEN a Software Developer and Part-time Content Creator on [Youtube](https://www.youtube.com/channel/UCm5l8-8axI8LNMPlovzaEOQ). I share coding videos and tips.
 
 <br>
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Twitter](https://img.shields.io/badge/<bozmaschine>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/bozmaschine)
 
-![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/bozmaschine)
 
 [![Twitter Badge](https://img.shields.io/badge/-@bozmaschine-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bozmaschine)](hgitttps://twitter.com/bozmaschine) 
 
