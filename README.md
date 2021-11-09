@@ -4,7 +4,15 @@ I'm Berat ÖZGEN a Software Developer and Part-time Content Creator on [Youtube]
 
 <br>
 
-[![Twitter Badge](https://img.shields.io/badge/-@bozmaschine-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bozmaschine)](hgitttps://twitter.com/bozmaschine) [![Mail Badge](https://img.shields.io/badge/-bozmaschine-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCm5l8-8axI8LNMPlovzaEOQ) [![Linkedin Badge](https://img.shields.io/badge/-Berat-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beratozgenn/) [![Mail Badge](https://img.shields.io/badge/-@bozmaschine-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/bozmaschine) [![Mail Badge](https://img.shields.io/badge/-beratozgendev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:beratozgendev@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@bozmaschine-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bozmaschine)](hgitttps://twitter.com/bozmaschine) 
+
+[![TGoogle Badge]([https://developers.google.com/profile/u/100411977489572610361?utm_source=developer.android.com]) 
+
+
+https://developers.google.com/profile/u/100411977489572610361?utm_source=developer.android.com
+
+
+[![Mail Badge](https://img.shields.io/badge/-bozmaschine-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCm5l8-8axI8LNMPlovzaEOQ) [![Linkedin Badge](https://img.shields.io/badge/-Berat-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beratozgenn/) [![Mail Badge](https://img.shields.io/badge/-@bozmaschine-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/bozmaschine) [![Mail Badge](https://img.shields.io/badge/-beratozgendev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:beratozgendev@gmail.com)
 
 <!-- TODO: Add last video link -->
 
