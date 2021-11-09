@@ -2,7 +2,7 @@
 <div>
 <h1 align="center"> Hi There, I'm Berat</h1>
 
-### I'm Software Developer and I'm Content Creator on <img src="https://img.icons8.com/color/15/000000/youtube-play.png"/> <a href="https://www.youtube.com/channel/UCm5l8-8axI8LNMPlovzaEOQ" target="_blank" >YouTube</a> and <img src="https://img.icons8.com/color/15/000000/instagram-new--v1.png"/><a href="https://www.instagram.com/bozmaschine/" target="_blank" >Instagram</a>
+### I'm Software Developer and I'm Content Creator on <img src="https://img.icons8.com/color/15/000000/youtube-play.png"/> <a href="https://www.youtube.com/channel/UCrVoU4JFjksPxqLh3kxXydw" target="_blank" >YouTube</a> and <img src="https://img.icons8.com/color/15/000000/instagram-new--v1.png"/><a href="https://www.instagram.com/bozmaschine/" target="_blank" >Instagram</a>
 
 </div>
 <br>
