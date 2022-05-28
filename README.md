@@ -1,2 +1,2 @@
-# bozmaschine
-Config files for my GitHub profile.
+![](images/cover.png)
+![](images/social.png)
