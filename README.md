@@ -2,6 +2,7 @@
 ![](https://github.com/bzgnexe/bozmaschine/blob/51a67a825976b7c58132094c81fc0557c51caf24/Github%20Cover.png)
 
 
+[![](https://github.com/bzgnexe/bzgnexe/blob/fc687e6fab29f7ba340a89572b52b6787e7e7a93/ps.png)](https://play.google.com/store/apps/dev?id=8542067479338567572)
 [![](https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/ln.png)](https://linkedin.com/in/beratozgenn)
 [![](https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/md.png)](https://medium.com/@bzgn)
 [![](https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/tw.png)](https://twitter.com/bzgnexe)
