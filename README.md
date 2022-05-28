@@ -1,2 +1,2 @@
-![](images/cover.png)
-![](images/social.png)
+![](Github Cover.png)
+![](Social Links.png)
