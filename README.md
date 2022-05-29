@@ -3,14 +3,10 @@
 
 ---
 
-[![](https://github.com/bzgnexe/bzgnexe/blob/fc687e6fab29f7ba340a89572b52b6787e7e7a93/ps.png)](https://play.google.com/store/apps/dev?id=8542067479338567572)
-[![](https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/ln.png)](https://linkedin.com/in/beratozgenn)
-[![](https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/md.png)](https://medium.com/@bzgn)
-[![](https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/tw.png)](https://twitter.com/bzgnexe)
-[![](https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/yt.png)](https://www.youtube.com/channel/UCrVoU4JFjksPxqLh3kxXydw)
-
-<a href="https://www.youtube.com/channel/UCrVoU4JFjksPxqLh3kxXydw" target="_blank"><img src="https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/yt.png"></a>
-
+<a href="https://play.google.com/store/apps/dev?id=8542067479338567572" target="_blank"><img src="https://github.com/bzgnexe/bzgnexe/blob/fc687e6fab29f7ba340a89572b52b6787e7e7a93/ps.png" width="205"/></a>
+<a href="https://linkedin.com/in/beratozgenn" target="_blank"><img src="https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/ln.png" width="205"/></a>
+<a href="https://medium.com/@bzgn" target="_blank"><img src="https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/md.png" width="205"/></a>
+<a href="https://twitter.com/bzgnexe" target="_blank"><img src="https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/tw.png" width="205"/></a><a href="https://www.youtube.com/channel/UCrVoU4JFjksPxqLh3kxXydw" target="_blank"><img src="https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/yt.png" width="205"/></a>
 
 
 ---
