@@ -1,5 +1,6 @@
-![](https://github.com/bzgnexe/bzgnexe/blob/90ca00d0e24d31c8430f1cb9ae2661b628eb398f/brt.gif)
+![](https://github.com/bzgnexe/bzgnexe/blob/8f731bc82d05b310dee9a6918ef3c443c9213ea5/welcome.gif)
 ![](https://github.com/bzgnexe/bozmaschine/blob/51a67a825976b7c58132094c81fc0557c51caf24/Github%20Cover.png)
+![](https://github.com/bzgnexe/bzgnexe/blob/90ca00d0e24d31c8430f1cb9ae2661b628eb398f/brt.gif)
 
 ---
 <h3>Links: </h3>
