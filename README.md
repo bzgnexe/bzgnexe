@@ -9,6 +9,8 @@
 [![](https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/tw.png)](https://twitter.com/bzgnexe)
 [![](https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/yt.png)](https://www.youtube.com/channel/UCrVoU4JFjksPxqLh3kxXydw)
 
+<a href="https://www.youtube.com/channel/UCrVoU4JFjksPxqLh3kxXydw" target="_blank"><img src="https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/yt.png"></a>
+
 
 
 ---
