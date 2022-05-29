@@ -13,15 +13,10 @@
 
 <h3>Useful videos for you from me: </h3>
 
-<a href= "https://www.youtube.com/watch?v=xHDZEiyW3qI" target=_blank> <img src="http://img.youtube.com/vi/xHDZEiyW3qI/0.jpg" width="120" height="90">
-<a href= "https://youtu.be/Q-ppw39uBJo" target=_blank> <img src="http://img.youtube.com/vi/Q-ppw39uBJo/0.jpg" width="120" height="90">
-  
-  ---
-  
-![](https://github-readme-stats.vercel.app/api?username=bzgnexe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bzgnexe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bzgnexe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<a href= "https://www.youtube.com/watch?v=xHDZEiyW3qI" target=_blank> <img src="http://img.youtube.com/vi/xHDZEiyW3qI/0.jpg" width="240" height="180">
+<a href= "https://youtu.be/Q-ppw39uBJo" target=_blank> <img src="http://img.youtube.com/vi/Q-ppw39uBJo/0.jpg" width="240" height="180">
+---
+![](https://github-readme-stats.vercel.app/api?username=bzgnexe&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ---
 
 
