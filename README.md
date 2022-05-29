@@ -14,7 +14,7 @@
 <h3>Useful videos for you from me: </h3>
 
 <a href= "https://www.youtube.com/watch?v=xHDZEiyW3qI" target=_blank> <img src="http://img.youtube.com/vi/xHDZEiyW3qI/0.jpg" width="120" height="90">
-<a href= "https://www.youtube.com/Q-ppw39uBJo)" target=_blank> <img src="http://img.youtube.com/vi/Q-ppw39uBJo/0.jpg" width="120" height="90">
+<a href= "https://youtu.be/Q-ppw39uBJo" target=_blank> <img src="http://img.youtube.com/vi/Q-ppw39uBJo/0.jpg" width="120" height="90">
   
   ---
   
