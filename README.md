@@ -1,6 +1,3 @@
-![](https://github.com/bzgnexe/bzgnexe/blob/8f731bc82d05b310dee9a6918ef3c443c9213ea5/welcome.gif)
-![](https://github.com/bzgnexe/bozmaschine/blob/51a67a825976b7c58132094c81fc0557c51caf24/Github%20Cover.png)
-![](https://github.com/bzgnexe/bzgnexe/blob/90ca00d0e24d31c8430f1cb9ae2661b628eb398f/brt.gif)
 
 ---
 <h3>Links: </h3>
@@ -10,6 +7,8 @@
 <a href="https://medium.com/@bzgn" target="_blank"><img src="https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/md.png" width="160"/></a>
 <a href="https://twitter.com/bzgnexe" target="_blank"><img src="https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/tw.png" width="160"/></a><a href="https://www.youtube.com/channel/UCrVoU4JFjksPxqLh3kxXydw" target="_blank"><img src="https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/yt.png" width="160"/></a>
 ---
+
+![](https://github.com/bzgnexe/bozmaschine/blob/51a67a825976b7c58132094c81fc0557c51caf24/Github%20Cover.png)
 
 <h3>Useful videos for you from me: </h3>
 
