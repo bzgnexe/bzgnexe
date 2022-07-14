@@ -1,4 +1,4 @@
-![](https://github.com/bzgnexe/bzgnexe/blob/e1908bc3dfbd0816f79cc79a0aa508a25924d368/cover.png)
+![](https://github.com/bzgnexe/bzgnexe/blob/ea528ec01474be8d467218b8becb99b459f9e2b3/cvr.png)
 ![](https://github-readme-stats.vercel.app/api?username=bzgnexe&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ---
 <h3>Links: </h3>
