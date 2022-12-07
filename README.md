@@ -1,5 +1,3 @@
-![](https://github.com/bzgnexe/bzgnexe/blob/ea528ec01474be8d467218b8becb99b459f9e2b3/cvr.png)
-
 
 ---
 <h3>Links: </h3>
