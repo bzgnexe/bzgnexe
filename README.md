@@ -1,10 +1,11 @@
 
----
-<h3>Links: </h3>
-<a href="https://play.google.com/store/apps/dev?id=8542067479338567572" target="_blank"><img src="https://github.com/bzgnexe/bzgnexe/blob/fc687e6fab29f7ba340a89572b52b6787e7e7a93/ps.png" width="160"/></a>
-<a href="https://linkedin.com/in/beratozgenn" target="_blank"><img src="https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/ln.png" width="160"/></a>
-<a href="https://medium.com/@bzgn" target="_blank"><img src="https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/md.png" width="160"/></a>
-<a href="https://www.youtube.com/channel/UCrVoU4JFjksPxqLh3kxXydw" target="_blank"><img src="https://github.com/bzgnexe/bzgnexe/blob/f54d316ed059726441481c1ed0eb74b6d3289474/yt.png" width="160"/></a>
+<img src="https://github.com/bzgnexe/bzgnexe/blob/8856d02654055dca5afcd3f82a51b3de8462c7e8/cover1.png"/>
 
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bzgnexe&layout=compact)](https://github.com/bzgnexe/github-readme-stats) --->
+<a href="https://play.google.com/store/apps/dev?id=8542067479338567572" target="_blank"><img src="https://github.com/bzgnexe/bzgnexe/blob/8856d02654055dca5afcd3f82a51b3de8462c7e8/btn1.png" width="160"/></a>
+<a href="https://linkedin.com/in/beratozgenn" target="_blank"><img src="https://github.com/bzgnexe/bzgnexe/blob/8856d02654055dca5afcd3f82a51b3de8462c7e8/btn2.png" width="160"/></a>
+<a href="https://medium.com/@bzgn" target="_blank"><img src="https://github.com/bzgnexe/bzgnexe/blob/8856d02654055dca5afcd3f82a51b3de8462c7e8/btn3.png" width="160"/></a>
+<a href="https://www.youtube.com/channel/UCrVoU4JFjksPxqLh3kxXydw" target="_blank"><img src="https://github.com/bzgnexe/bzgnexe/blob/8856d02654055dca5afcd3f82a51b3de8462c7e8/btn4.png" width="160"/></a>
+
+![](https://github-readme-stats.vercel.app/api?username=bzgnexe&show_icons=true&theme=transparent)
+
 
