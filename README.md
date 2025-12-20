@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width="100%" style="border-radius:16px" />
+  <img src="andro.gif" width="20%" style="border-radius:16px" />
 </p>
 
 <h1 align="center">👋 Hi, I'm an Android & KMM Developer</h1>
