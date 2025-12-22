@@ -18,12 +18,4 @@
 
 ---
 
-## 🧠 About Me
-
-I'm a **mobile developer** focused on **Android** and **Kotlin Multiplatform Mobile (KMM)**.
-
-I enjoy:
-- Designing **clean & testable architectures**
-- Sharing business logic across platforms
-- Turning complex ideas into **maintainable mobile products**
 
